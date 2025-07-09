@@ -63,7 +63,11 @@
       "name": "极速资源",
       "detail": "https://jszyapi.com"
     },
-    "ikun": {
+  "hongniu": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",
+      "name": "红牛"
+    },
+    "haohua": {
       "api": "https://hhzyapi.com/api.php/provide/vod/at/xml",
       "name": "豪华"
     }
